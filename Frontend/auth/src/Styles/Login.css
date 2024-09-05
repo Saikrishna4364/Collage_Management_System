@@ -1,0 +1,9 @@
+.back-ground {
+    background-image: url('../images/logbg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
